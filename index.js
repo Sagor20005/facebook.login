@@ -23,6 +23,6 @@ app.set("view engine","ejs")
 app.use(router)
 
 
-app.listen(5000,()=>{
+app.listen(9000,()=>{
   console.log("server is running at 5000")
 })
